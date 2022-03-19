@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samaosaphile, The Troller, Launches Site"
+title: "Samosaphile, The Troller, Launches Site"
 date: 2022-03-19
 ---
 
